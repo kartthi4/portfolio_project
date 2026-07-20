@@ -6,7 +6,7 @@
 ### Business Problem :
 Uber experienced a high number of ride cancellations and "No Cars Available" requests, resulting in low ride fulfillment rates. The SQL analysis was conducted to identify demand patterns, unsuccessful ride trends, and operational improvement opportunities.
 
-### Data Overview:
+### Dataset Overview:
 Source: Kaggle datasets
 
 Table:  Request_Data
@@ -39,9 +39,11 @@ Ride Requests by Weekday
 
 Pickup Location Analysis
 
-Peak Hour Demand Analysis
+Peak Demand Analysis
 
 Unsuccessful Ride Analysis
+
+Driver availability analysis (additional exploratory analysis)
 
 
 ### Key Insights:
@@ -63,8 +65,6 @@ Draw.io
 
 Excel
 
-Github
-
 ### Related Business Analyst Project 
 This SQL analysis is part of a complete Business Analyst case study that also includes:
 
@@ -74,7 +74,9 @@ This SQL analysis is part of a complete Business Analyst case study that also in
 
 • Power BI Dashboard
 
-• Business Recommendations
-
 • Process Flow Diagram
+
+• Business  Findings and Business Recommendations
+
+ 
 
