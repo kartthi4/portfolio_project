@@ -77,3 +77,4 @@ This SQL analysis is part of a complete Business Analyst case study that also in
 • Business Recommendations
 
 • Process Flow Diagram
+
