@@ -78,5 +78,5 @@ This SQL analysis is part of a complete Business Analyst case study that also in
 
 • Business  Findings and Business Recommendations
 
- 
+ ### View the full case study
 
